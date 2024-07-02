@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "hyundai",
+        "slug": "hyundai"
+    },
+    {
+        "id": 2,
+        "name": "nissan",
+        "slug": "nissan"
+    },
+    {
+        "id": 3,
+        "name": "renault",
+        "slug": "renault"
+    },
+    {
+        "id": 4,
+        "name": "tesla",
+        "slug": "tesla"
+    },
+    {
+        "id": 5,
+        "name": "test drive",
+        "slug": "test-drive"
+    },
+    {
+        "id": 6,
+        "name": "e-golf",
+        "slug": "e-golf"
+    },
+    {
+        "id": 7,
+        "name": "prices",
+        "slug": "prices"
+    },
+    {
+        "id": 8,
+        "name": "cybertruck",
+        "slug": "cybertruck"
+    }
+]

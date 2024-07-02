@@ -1,0 +1,7 @@
+/venv/
+../.idea/
+./
+../drfsite/
+venv/
+.idea/
+__pycache__/
